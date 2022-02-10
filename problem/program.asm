@@ -1,6 +1,6 @@
-// COLOCO AQUÍ TU NOMBRE COMPLETO
-// COLOCA AQUÍ TU ID
-// COLOCA AQUÍ TU CORREO ELECTRÓNICO
+// Martin Jeronimo Zuluaga Orrego
+// 000255810
+// martin.zuluaga@upb.edu.co
 (START)
 @24576
 D=M
